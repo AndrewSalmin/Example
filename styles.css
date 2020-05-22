@@ -1,3 +1,12 @@
 body {
-    background-color: #FF00FF;
+    background-color: black;
+}
+
+canvas {
+    position: absolute;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
 }
